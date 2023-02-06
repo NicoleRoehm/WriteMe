@@ -10,10 +10,10 @@ With Live Data, Navigation Component, Recycler View and MVVM
 Have fun watching the development
 
 
-Update: A kot has happend, the layout
-has been revised and all codes have been written.
+Update: Today I fixed the error with the empty
+messages with help. 
+now only a reply function and the back button are missing.
 
-There are still a few small errors,
-maybe someone can help me. 
+I am open to further help an suggestions. :) 
 
 thank you. 
